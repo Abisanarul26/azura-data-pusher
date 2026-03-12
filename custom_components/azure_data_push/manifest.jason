@@ -1,0 +1,9 @@
+{
+  "domain": "azure_data_pusher",
+  "name": "Tasmota to Azure Bridge",
+  "version": "1.0.0",
+  "documentation": "https://github.com/Abisanarul26/azura-data-pusher",
+  "dependencies": [],
+  "codeowners": ["@Abisanarul26"],
+  "requirements": ["azure-iot-device"] 
+}
